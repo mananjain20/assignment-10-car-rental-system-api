@@ -2,6 +2,8 @@
 
 A production-ready **Car Rental & Vehicle Fleet Management REST API** built with **Node.js**, **Express.js**, and **Supabase (PostgreSQL & Supabase Auth)**.
 
+Render Link -  https://assignment-10-car-rental-system-api-3n9v.onrender.com
+
 ---
 
 ## 1. Project Overview
@@ -492,8 +494,5 @@ Add the following key-value pairs under **Environment** in your Render Web Servi
 | `SUPABASE_SECRET_KEY` | `<YOUR_SUPABASE_SECRET_KEY>` | Supabase Secret Key |
 | `SUPABASE_JWKS_URL` | `https://<YOUR-SUPABASE-PROJECT>.supabase.co/auth/v1/.well-known/jwks.json` | Supabase Auth JWKS Endpoint |
 
-### Live Endpoints:
-- **Render Live API Base URL**: `https://<YOUR-RENDER-APP-NAME>.onrender.com`
-- **Health Check Endpoint**: `https://<YOUR-RENDER-APP-NAME>.onrender.com/api/health`
 
 
